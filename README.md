@@ -11,7 +11,7 @@
 - **🔑 Key Features:**
   - 📺 Channel Name  
   - 👥 Subscribers  
-  - 👁️ Views  
+  - 👁️ Video Views  
   - 🎞️ Videos counts 
   - 🏷️ Category  
   - 🧾 Channel Type  
@@ -45,8 +45,8 @@
 - Category-wise subscriber bar plots  
 
 ### 📈 Visualizations:
-- 📊 Bar chart: Top 10 YouTube channels by subscriber count  
-- 🔵 Scatter plots: Views vs. Subscribers, Uploads vs. Subscribers  
+- 📊 Bar chart: Top 20 YouTube channels by subscriber count  
+- 🔵 Bar chart: category vs. Subscribers, video views vs. Subscribers  
 
 ---
 
@@ -78,7 +78,7 @@
 **[ChandraHari U]**  
 _Data Analyst | Python Enthusiast | YouTube Trends Explorer_
 
- 💼 [LinkedIn](#www.linkedin.com/in/chandrahari-u-0082ba270) | 🐱 [GitHub](#)
+ 💼 [LinkedIn](#www.linkedin.com/in/chandrahari-u-0082ba270) | 🐱 [GitHub](#https://github.com/ChandraHari05)
 
 ---
 
