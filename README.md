@@ -1,7 +1,7 @@
 # EDA on the Most Subscribed Channels
 
 ## 📝 Description  
-**YouTube Most Subscribed Channels** is an EDA project that explores the most subscribed YouTube channels to uncover trends in content type, views, and video counts. It aims to identify what drives subscriber growth and engagement using data cleaning, visualizations, and insights for creators and analysts alike(2004-2019).
+**YouTube Channels** is an EDA project that explores the most subscribed YouTube channels to uncover trends in content type, views, and video counts. It aims to identify what drives subscriber growth and engagement using data cleaning, visualizations, and insights for creators and analysts alike(2004-2019).
 
 ---
 
