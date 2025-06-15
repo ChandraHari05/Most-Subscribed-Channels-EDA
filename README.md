@@ -78,7 +78,7 @@
 **[ChandraHari U]**  
 _Data Analyst | Python Enthusiast | YouTube Trends Explorer_
 
- 💼 [LinkedIn](#www.linkedin.com/in/chandrahari-u-0082ba270) | 🐱 [GitHub](#https://github.com/ChandraHari05)
+ 💼 [LinkedIn](#www.linkedin.com/in/chandrahari-u-0082ba270) | 🐱 [GitHub]([https://github.com/ChandraHari05])   | [Email](charimudali05@gmail.com)
 
 ---
 
